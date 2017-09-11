@@ -1,0 +1,17 @@
+{
+  "name": "shhhowr-design",
+  "version": "0.0.1",
+  "description": "What if there's a smart way to take showers?",
+  "main": "index.js",
+  "repository": "https://github.com/bukinoshita/shhhowr.git",
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "keywords": ["shower, shhhowr, ai, aritificial, intelligence, bath"],
+  "scripts": {
+    "push-design": "sketch-json",
+    "pull-design": "sketch-json --json"
+  },
+  "devDependencies": {
+    "sketch-json-cli": "^0.0.2"
+  }
+}
