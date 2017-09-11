@@ -2,6 +2,10 @@
 
 > What if there's a smart way to take showers?
 
+## Table of contents
+  * [Introduction about the problem](#the-problem)
+  * [Introduction about the solution](#solution)
+
 
 ## The problem
 
