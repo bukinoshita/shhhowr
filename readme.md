@@ -1,3 +1,5 @@
+<img src="/design/assets/cover.png" />
+
 # shhhowr
 
 > What if there's a smart way to take showers?
