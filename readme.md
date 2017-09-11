@@ -1,4 +1,4 @@
-<img src="/design/assets/cover.png" />
+<img src="/design/assets/cover.png" alt="coxinha"/>
 
 # shhhowr
 
