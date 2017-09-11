@@ -1,0 +1,39 @@
+{
+  "commit": "752502a5f62450dd6555e39d77a464fb4c5043e7",
+  "pagesAndArtboards": {
+    "EF414B52-150B-400F-92D9-11E2E14970CC": {
+      "name": "Page 1",
+      "artboards": {
+        "4EF45C03-BABC-48B5-A2DD-EB9F588E71F5": {
+          "name": "user-flow"
+        }
+      }
+    },
+    "A276CDE7-76D1-49BA-B4EF-2C939627A7F8": {
+      "name": "Symbols",
+      "artboards": {
+        "BAA1BFE0-0CA5-4D54-856A-BBAC1F0E5E1E": {
+          "name": "screen"
+        }
+      }
+    }
+  },
+  "version": 93,
+  "fonts": ["SFUIDisplay-Medium", "SFUIDisplay-Bold", "SFUIDisplay-Regular"],
+  "compatibilityVersion": 93,
+  "app": "com.bohemiancoding.sketch3",
+  "autosaved": 0,
+  "variant": "NONAPPSTORE",
+  "created": {
+    "commit": "752502a5f62450dd6555e39d77a464fb4c5043e7",
+    "appVersion": "46.2",
+    "build": 44496,
+    "app": "com.bohemiancoding.sketch3",
+    "compatibilityVersion": 93,
+    "version": 93,
+    "variant": "NONAPPSTORE"
+  },
+  "saveHistory": ["NONAPPSTORE.44496"],
+  "appVersion": "46.2",
+  "build": 44496
+}
