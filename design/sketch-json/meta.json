@@ -6,12 +6,15 @@
       "artboards": {
         "E6182B3D-45DC-4E0E-A7D9-7C73356264C2": {
           "name": "logo"
+        },
+        "BAEB337B-37F0-4022-8106-82FF7D2D1E27": {
+          "name": "cover"
         }
       }
     }
   },
   "version": 93,
-  "fonts": [],
+  "fonts": ["SFUIDisplay-Medium", "SFUIDisplay-Bold"],
   "compatibilityVersion": 93,
   "app": "com.bohemiancoding.sketch3",
   "autosaved": 0,
