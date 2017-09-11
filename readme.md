@@ -4,6 +4,9 @@
 
 > What if there's a smart way to take showers?
 
+[![GitHub release](https://img.shields.io/github/release/qubyte/shhhowr.svg)]()
+[![Design release](https://img.shields.io/badge/design-v0.0.2-blue.svg)]()
+
 ## Table of contents
   * [Introduction about the problem](#the-problem)
   * [Introduction about the solution](#solution)
