@@ -1,0 +1,48 @@
+{
+  "commit": "752502a5f62450dd6555e39d77a464fb4c5043e7",
+  "pagesAndArtboards": {
+    "1DE46B4F-5359-467E-A7F5-760EF5C9A781": {
+      "name": "Symbols",
+      "artboards": {
+        "03EE982A-6748-4D97-B49E-187D9FC3E0DE": {
+          "name": "icons\/credit-card"
+        },
+        "6444B434-E22E-4095-8E38-6DE30F22CE61": {
+          "name": "icons\/users"
+        },
+        "291A4CDE-20AB-423E-B85D-9F99725669A8": {
+          "name": "icons\/activity"
+        },
+        "95814BA5-075F-4D11-8993-BF863CD7EED9": {
+          "name": "icons\/settings"
+        }
+      }
+    },
+    "4D8942E0-43E2-48F8-9F84-F7C44587A922": {
+      "name": "Page 1",
+      "artboards": {
+        "A111D19D-DEB0-4F18-97F9-856038C1A13A": {
+          "name": "home"
+        }
+      }
+    }
+  },
+  "version": 93,
+  "fonts": ["SFUIDisplay-Medium", "SFUIDisplay-Heavy"],
+  "compatibilityVersion": 93,
+  "app": "com.bohemiancoding.sketch3",
+  "autosaved": 0,
+  "variant": "NONAPPSTORE",
+  "created": {
+    "commit": "752502a5f62450dd6555e39d77a464fb4c5043e7",
+    "appVersion": "46.2",
+    "build": 44496,
+    "app": "com.bohemiancoding.sketch3",
+    "compatibilityVersion": 93,
+    "version": 93,
+    "variant": "NONAPPSTORE"
+  },
+  "saveHistory": ["NONAPPSTORE.44496"],
+  "appVersion": "46.2",
+  "build": 44496
+}
