@@ -15,6 +15,9 @@
         },
         "95814BA5-075F-4D11-8993-BF863CD7EED9": {
           "name": "icons\/settings"
+        },
+        "1690702B-584F-4C12-B005-C4BB015BA29A": {
+          "name": "status-bar"
         }
       }
     },
@@ -23,12 +26,15 @@
       "artboards": {
         "A111D19D-DEB0-4F18-97F9-856038C1A13A": {
           "name": "home"
+        },
+        "560D58BA-32C1-4B7C-A4C8-A0A179FE7B11": {
+          "name": "manage-control"
         }
       }
     }
   },
   "version": 93,
-  "fonts": ["SFUIDisplay-Medium", "SFUIDisplay-Heavy"],
+  "fonts": ["SFProText-Regular", "SFUIDisplay-Medium", "SFUIDisplay-Semibold", "SFUIDisplay-Heavy", "SFProText-Semibold", "SFUIDisplay-Bold"],
   "compatibilityVersion": 93,
   "app": "com.bohemiancoding.sketch3",
   "autosaved": 0,
