@@ -2,7 +2,7 @@
 
 # shhhowr
 
-> What if there's a smart way to take showers?
+> What if there was a smarter way to take shower?
 
 [![GitHub release](https://img.shields.io/github/release/qubyte/shhhowr.svg)]()
 [![Design release](https://img.shields.io/badge/design-v0.0.2-blue.svg)]()
