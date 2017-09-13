@@ -1,7 +1,7 @@
 {
   "name": "shhhowr-design",
   "version": "0.0.2",
-  "description": "What if there's a smart way to take showers?",
+  "description": "What if there was a smarter way to take shower?",
   "main": "index.js",
   "repository": "https://github.com/bukinoshita/shhhowr.git",
   "author": "Bu Kinoshita <bukinoshita@gmail.com>",
