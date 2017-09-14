@@ -1,4 +1,4 @@
-<img src="/design/assets/cover.png" alt="coxinha"/>
+<p align="center"><img src="/design/assets/cover.png" alt="coxinha" width="600px"/></p>
 
 # shhhowr
 
